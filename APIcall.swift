@@ -8,7 +8,7 @@
 
 import Foundation
 
-class DribbleAPI {
+class APIcall {
     let apiEndpoint = "";
     
     func loadObj(completion: ((AnyObject) -> Void)!) {
